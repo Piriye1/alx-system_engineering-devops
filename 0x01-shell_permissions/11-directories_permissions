@@ -1,2 +1,4 @@
 #!/bin/bash
-chmod -R ugo+x . chmod u+x
+chmod -R ugo+x .
+chmod -R ugo+x,u+x
+chmod -R ugo+x.
